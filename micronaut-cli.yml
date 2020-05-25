@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, docker, graalvm, http-client, java, java-application, jib, jmx, junit, kafka, kubernetes, log4j2, management, maven, micrometer, micrometer-new-relic, micrometer-prometheus, netty-server, properties, readme, redis-lettuce, spring]
